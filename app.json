@@ -1,4 +1,10 @@
 {
   "name": "Goals",
-  "displayName": "Goals"
+  "displayName": "Goals",
+  "version": "0.0.1",
+  "orientation": "portrait",
+  "backgroundColor": "#1e085a",
+  "ios": {
+    "supportsTablet": true
+  }
 }
